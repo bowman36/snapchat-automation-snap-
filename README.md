@@ -9,7 +9,7 @@ Useful if you're trying to farm SnapScore - select 500 snaps and leave the scrip
 The next morning you'll have and extra 500 SnapScore.
 
 
-#Tutorial
+# Tutorials
 
 
 
@@ -26,5 +26,5 @@ Enter the username of the recipient (the person to receive the snaps)
 You can press ESCAPE anytime to instantly stop the program.
 
 
-#GOAL
+# GOAL
 To not break the streaks and save their time.
